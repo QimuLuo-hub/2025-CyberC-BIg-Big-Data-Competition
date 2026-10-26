@@ -39,9 +39,6 @@ The main experimental scripts are in [`CyberC_Final_Code/`](CyberC_Final_Code/):
 
 The repository also contains a [`Plot/`](Plot/) directory with figure-generation materials. The files above are starting points for navigating the work; they are research scripts rather than a single packaged training pipeline.
 
-## Reproducibility notes
-
-The code uses Python and machine-learning/scientific-computing libraries. Some scripts refer to local input data, saved model outputs, or paths specific to the original experiments. **Check the arguments and paths in each script before running it.** This repository does not currently provide a verified one-command reproduction procedure.
 
 ## Project context
 
